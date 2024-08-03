@@ -1,0 +1,32 @@
+Uri: https://qr.mc.gov.sa/ecr/cr-details
+File Name: C:\Users\ASUS\Desktop\مجلد جديد\qr.mc.gov.sa\ecr\cr-details.html
+Content Type: text/html
+
+Uri: https://qr.mc.gov.sa/favicon.ico
+File Name: C:\Users\ASUS\Desktop\مجلد جديد\qr.mc.gov.sa\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://qr.mc.gov.sa/main.46944efd48862bf1206f.js
+File Name: C:\Users\ASUS\Desktop\مجلد جديد\qr.mc.gov.sa\main.46944efd48862bf1206f.js
+Content Type: application/javascript
+
+Uri: https://qr.mc.gov.sa/polyfills-es5.69d2f902b7fa654ec4d5.js
+File Name: C:\Users\ASUS\Desktop\مجلد جديد\qr.mc.gov.sa\polyfills-es5.69d2f902b7fa654ec4d5.js
+Content Type: application/javascript
+
+Uri: https://qr.mc.gov.sa/polyfills.ad458a519d3fcaba4fe6.js
+File Name: C:\Users\ASUS\Desktop\مجلد جديد\qr.mc.gov.sa\polyfills.ad458a519d3fcaba4fe6.js
+Content Type: application/javascript
+
+Uri: https://qr.mc.gov.sa/runtime.741402d1d47331ce975c.js
+File Name: C:\Users\ASUS\Desktop\مجلد جديد\qr.mc.gov.sa\runtime.741402d1d47331ce975c.js
+Content Type: application/javascript
+
+Uri: https://qr.mc.gov.sa/scripts.4fc84000c33c2bbbc663.js
+File Name: C:\Users\ASUS\Desktop\مجلد جديد\qr.mc.gov.sa\scripts.4fc84000c33c2bbbc663.js
+Content Type: application/javascript
+
+Uri: https://qr.mc.gov.sa/styles.c697726e553f856d6808.css
+File Name: C:\Users\ASUS\Desktop\مجلد جديد\qr.mc.gov.sa\styles.c697726e553f856d6808.css
+Content Type: text/css
+
